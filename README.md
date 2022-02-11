@@ -32,6 +32,9 @@
 
 #### Примеры интерфейса, удовлетворяющего техническому заданию
 
+![Hello World Task Pic 1](https://user-images.githubusercontent.com/10827973/153540611-e9a8eb44-76da-4fd6-9d85-fccdf9b3edb2.png)
+![Hello World Task Pic 2](https://user-images.githubusercontent.com/10827973/153540618-667d3f5f-d06c-4458-8e83-46a666b66bae.png)
+
 Критерии оценивания и тесты
 ---------------------------
 
